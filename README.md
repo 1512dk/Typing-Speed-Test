@@ -1,2 +1,2 @@
 # Typing-Speed-Test
-know your typing spped
+know your typing speed
